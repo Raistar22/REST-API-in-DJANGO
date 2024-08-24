@@ -13,7 +13,7 @@ This project is a Django-based REST API that provides a backend service for mana
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Raistar22/REST-API-in-DJANGO.git
    cd your-repo-name
    ```
 
